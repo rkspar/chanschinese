@@ -206,7 +206,7 @@ hr.colored {
 .navbar-default .navbar-brand,
 .navbar-inverse .navbar-brand {
   padding: 0 15px;
-  color: white;
+  color: #E92B3E;
   opacity: 1;
   text-decoration: none;
   -webkit-transition: all 0.5s;
